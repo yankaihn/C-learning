@@ -86,3 +86,10 @@ Max max_fun(void)
 	}
 	return max;
 }
+//结构体类型数据作为函数参数
+1.如果用
+
+
+
+
+
